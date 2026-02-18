@@ -1,0 +1,45 @@
+# -----------------------
+# OS generated files
+# -----------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# IDE / editor files
+# -----------------------
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------
+# Node / build folders (if used)
+# -----------------------
+node_modules/
+dist/
+build/
+
+# -----------------------
+# Temporary files and logs
+# -----------------------
+*.log
+*.tmp
+*.zip
+
+# -----------------------
+# Composer / PHP vendor (if used)
+# -----------------------
+vendor/
+
+# -----------------------
+# WordPress-specific local files
+# -----------------------
+wp-content/debug.log
+wp-content/upgrade/
+wp-content/backups/
+
+# -----------------------
+# Swap / backup files
+# -----------------------
+*.swp
+*.bak
